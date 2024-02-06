@@ -69,7 +69,6 @@ if __name__ == "__main__":
 
 
     ### perform forward prop
-
     outputs = mlp.froward_propagate(inputs)
 
 
